@@ -1,0 +1,14 @@
+netpbm-10.35.84
+netpbm-10.35.84/*
+netpbm-10.35.84.original
+netpbm-10.35.84.original/*
+*.tds
+*.obj
+*.exe
+*.class
+*.pyc
+*.pyd
+*.etc
+*.zip
+.git
+.git/*
